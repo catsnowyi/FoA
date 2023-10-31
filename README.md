@@ -45,11 +45,12 @@ dancing, someone pays a debt, fixing something)Interrupt Card (variation of the 
 <b> 3.2  Activity Logs </b> 
 
 3.2.1 <a href="https://drive.google.com/drive/folders/1Mem-mzzZQfZWRMx5Qf9-d_9q1VpzirxY?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">FoA Resource Cards</a> 
-     <br> - Material Cards
+     <br> - Material Cards 
      <br> - Artifact Cards
      <br> - Tech Cards
      <br> - Bio Cards
      <br> - Intell Cards
+     <br> Resource card Design template PSD files 
      
 3.2.2 <a href="https://drive.google.com/drive/folders/1NPKeUVaaJLe-1tZDOMM2ea37joXxSZrM?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Icons for each Region</a> 
 <br> - 30 tokens
