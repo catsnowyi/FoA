@@ -44,7 +44,7 @@ dancing, someone pays a debt, fixing something)Interrupt Card (variation of the 
 
 <b> 3.2  Activity Logs </b> 
 
-3.2.1 <a href="https://drive.google.com/drive/folders/1Mem-mzzZQfZWRMx5Qf9-d_9q1VpzirxY?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">FoA Resource Cards</a> 
+- 3.2.1 <a href="https://drive.google.com/drive/folders/1Mem-mzzZQfZWRMx5Qf9-d_9q1VpzirxY?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">FoA Resource Cards</a> 
      <br> - Material Cards 
      <br> - Artifact Cards
      <br> - Tech Cards
@@ -52,17 +52,26 @@ dancing, someone pays a debt, fixing something)Interrupt Card (variation of the 
      <br> - Intell Cards
      <br> Resource card Design template PSD files 
      
-3.2.2 <a href="https://drive.google.com/drive/folders/1NPKeUVaaJLe-1tZDOMM2ea37joXxSZrM?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Icons for each Region</a> 
+- 3.2.2 <a href="https://drive.google.com/drive/folders/1NPKeUVaaJLe-1tZDOMM2ea37joXxSZrM?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Icons for each Region</a> 
 <br> - 30 tokens
 <br> - Stickers to put on the Adventure log 
 
-3.2.3 Character template Design 
-      <br> 3.2.3.1 Power Flower instruction
-      <br> 3.2.3.2 Character Building Sheet
-      <br> 3.2.3.3 Secret Identity cards: Personal Agenda (facedown). 
-      <br> 3.2.3.4  Character Traits Cards
+- 3.2.3 Character template Design [Character Design Template.pdf](https://github.com/catsnowyi/FoA/files/13211827/Character.Design.Template.pdf)
 
-3.2.4 FoA World Map
+  
+1) <a href="http://www.buildingcompetence.ca/workshop/power_flower/" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Power Flower instruction </a> 
+
+2) Character Building Sheet
+[charSheet0.2.pdf](https://github.com/catsnowyi/FoA/files/13211803/charSheet0.2.pdf)
+
+3) Secret Identity cards: Personal Agenda (facedown).
+  
+4)  Character Traits Cards
+![image](https://github.com/catsnowyi/FoA/assets/149341350/8c20fb58-9aea-45a5-b5c5-166294a1a242)
+
+- 3.2.4 FoA World Map
+
+![image](https://github.com/catsnowyi/FoA/assets/149341350/df36879d-d3c3-4d3d-b50f-b0d8b78078a1)
 
 3.2.5 Environment Cards
 
