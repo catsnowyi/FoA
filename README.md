@@ -52,7 +52,8 @@ dancing, someone pays a debt, fixing something)Interrupt Card (variation of the 
      <br> - Intell Cards
      <br> Resource card Design template PSD files 
      
-- 3.2.2 <a href="https://drive.google.com/drive/folders/1NPKeUVaaJLe-1tZDOMM2ea37joXxSZrM?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Icons for each Region</a> 
+- 3.2.2 <a href="https://drive.google.com/drive/folders/1NPKeUVaaJLe-1tZDOMM2ea37joXxSZrM?usp=sharing" rel="noopener noreferrer" data-token-index="1" style="text-decoration: underline; color: #00816b;" tabindex="0">Icons for each Region</a> [Tokens.zip](https://github.com/catsnowyi/FoA/files/13211907/Tokens.zip)
+
 <br> - 30 tokens
 <br> - Stickers to put on the Adventure log 
 
@@ -73,15 +74,40 @@ dancing, someone pays a debt, fixing something)Interrupt Card (variation of the 
 
 ![image](https://github.com/catsnowyi/FoA/assets/149341350/df36879d-d3c3-4d3d-b50f-b0d8b78078a1)
 
-3.2.5 Environment Cards
+- 3.2.5 Environment Cards
+  <br>Public Spaces 
+  <br>Privite Spaces
+  
+- 3.2.6 NPC backstories  
+ A Inspector Ymir [The Inspector Ymir.pdf](https://github.com/catsnowyi/FoA/files/13211932/The.Inspector.Ymir.pdf)
+ <br>B HackerL[_Hacker L.pdf](https://github.com/catsnowyi/FoA/files/13211933/_Hacker.L.pdf)
+ <br>C Engineer Bdeir[engineer Bdeir.pdf](https://github.com/catsnowyi/FoA/files/13211934/engineer.Bdeir.pdf)
+ <br>D Bard Otto[The Bard Otto.pdf](https://github.com/catsnowyi/FoA/files/13211939/The.Bard.Otto.pdf)
+ <br>E ChemistEren [The Chemist Eren.pdf](https://github.com/catsnowyi/FoA/files/13211935/The.Chemist.Eren.pdf)
+ <br>F Architect Lineus [The Architect Lineus.pdf](https://github.com/catsnowyi/FoA/files/13211936/The.Architect.Lineus.pdf)
 
-3.2.6 NPC backstories  
+  
+- 3.2.7 AEIOU worksheets
 
-3.2.7 AEIOU worksheets
+![image](https://github.com/catsnowyi/FoA/assets/149341350/581d14e6-2e72-4aa3-9472-79db69434e2a)
 
-3.2.8  FoA knowledge base 
+- 3.2.8  FoA knowledge base 
+<br>[FoA Knowledge base.pdf](https://github.com/catsnowyi/FoA/files/13211926/FoA.Knowledge.base.pdf)
+
 
 <b>3.3 Back Stories by Location </b>
+- Crescent Garden[Crescent Garden.pdf](https://github.com/catsnowyi/FoA/files/13211953/Crescent.Garden.pdf)
+
+- Fon Bay[Fon Bay.pdf](https://github.com/catsnowyi/FoA/files/13211950/Fon.Bay.pdf)
+
+- Mirror City [Mirror City.pdf](https://github.com/catsnowyi/FoA/files/13211986/Mirror.City.pdf)
+
+- The Fortress [The Fortress.pdf](https://github.com/catsnowyi/FoA/files/13211987/The.Fortress.pdf)
+
+- The Lower Novartica [The Lower Novartica.pdf](https://github.com/catsnowyi/FoA/files/13211988/The.Lower.Novartica.pdf)
+
+- The Upper Nuovartica [The Upper Nuovartica.pdf](https://github.com/catsnowyi/FoA/files/13211989/The.Upper.Nuovartica.pdf)
+
 
 <b>3.4 Quest Card </b>
 <br>It could be an individual Questor “submission” of a series of missions following a sequential order.  
