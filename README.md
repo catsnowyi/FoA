@@ -301,6 +301,8 @@ https://horizon.fandom.com/
 <br>https://ark.fandom.com/
 <br>https://wowpedia.fandom.com/
 
+figma: https://www.figma.com/file/mDOArLCTRfoUQtyLXSQtYX/Untitled?type=design&node-id=0%3A1&mode=design&t=tH08ZIC3G59KKeZN-1
+
 You may also go to https://www.fandom.com/topics/games and find wikis on all sorts of other games
 
 Each of those wikis includes extremely detailed pages on each character, region, faction, enemies, important NPCs, skills, events, etc...
